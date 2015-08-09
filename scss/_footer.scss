@@ -1,0 +1,38 @@
+.footer {
+	position: relative;
+	width: 100%;
+	height: 120px;
+	background: url('../img/footer_pattern.jpg') 0 0 repeat-x;
+	margin: 98px 0 48px 0;
+	&__pic {
+		position: absolute;
+		display: block;
+		width: 514px;
+		height: 267px;
+		background: url('../img/footer_pic.png') 0 0 no-repeat;
+		right: 0;
+		bottom: -62px;
+		z-index: 1;
+	}
+	&__copy {
+		position: relative;
+		text-align: center;
+		font-size: 24px;
+		color: #000000;
+		z-index: 2;
+		span {
+			color: #ffffff;
+		}
+	}
+	&__info {
+		position: relative;
+		text-align: center;
+		font-size: 16px;
+		line-height: 12px;
+		color: #000000;
+		z-index: 2;
+	}
+	.wrapper {
+		padding: 58px 0 0 0;
+	}
+}
