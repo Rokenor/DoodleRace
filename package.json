@@ -1,6 +1,6 @@
 {
     "author"	: "Rokenor",
-    "name"		: "Cradle_site",
+    "name"		: "Doodle_race_site",
     "version"	: "0.0.1",
     "devDependencies" : {
         "grunt"					: "^0.4.5",
