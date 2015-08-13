@@ -234,6 +234,7 @@ body {
   line-height: 26px;
   color: #ffffff;
   padding: 10px 0;
+  text-decoration: none;
 }
 
 .content__text_yellow {
@@ -243,7 +244,6 @@ body {
 .content__text_small {
   font-size: 24px;
   line-height: 20px;
-  text-decoration: none;
 }
 
 .content__text sup {
