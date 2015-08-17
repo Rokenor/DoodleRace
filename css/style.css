@@ -178,7 +178,7 @@ body {
   display: block;
   height: 292px;
   width: 100%;
-  background: url("../img/header_pattern.png") 0 48px repeat-x;
+  background: url("../img/header_pattern.png") 0 46px repeat-x;
   margin: 0 0 200px;
 }
 
@@ -295,6 +295,10 @@ body {
   padding: 8px 0;
   width: 864px;
   margin: 40px auto 30px;
+}
+
+.content__social .addthis_sharing_toolbox {
+  margin: 0 auto;
 }
 
 .footer {
